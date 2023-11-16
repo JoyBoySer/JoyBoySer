@@ -34,11 +34,10 @@
 -----
 
 <h2 align="center">Connect with me:</h2>
-<p align="center">
-<center>
+<p>
 <a href="https://instagram.com/joy_boy_ser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joy_boy_ser" height="30" width="40" /></a>
 <a href="https://wa.me/+918714504817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="avo" height="30" width="40" /></a>
-</br></br></center>
+</br></br></center><\p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JoyBoyser&label=VISITORS%20COUNT&color=10d9c3&style=plastic" alt="JoyBoySer" /> </p>
