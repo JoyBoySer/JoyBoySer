@@ -35,4 +35,4 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=JoyBoyser&label=Visitors%20count&color=10d9c3&style=plastic" alt="JoyBoySer" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JoyBoyser&label=VISITORS%20COUNT&color=10d9c3&style=plastic" alt="JoyBoySer" /> </p>
