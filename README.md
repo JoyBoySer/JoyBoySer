@@ -32,3 +32,7 @@
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
 
 -----
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JoyBoyser&label=Visitors%20count&color=10d9c3&style=plastic" alt="JoyBoySer" /> </p>
