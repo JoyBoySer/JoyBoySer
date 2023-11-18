@@ -33,8 +33,8 @@
 
 <h2>Connect with me:</h2>
 <p>
-<a href="https://instagram.com/joy_boy_ser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joy_boy_ser" height="30" width="40" /></a>
-<a href="https://wa.me/+918714504817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="avo" height="30" width="40" /></a>
+<a href="https://instagram.com/joy_boy_ser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="click" height="30" width="40" /></a>
+<a href="https://wa.me/+918714504817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="click" height="30" width="40" /></a>
 </br></br>
 
 
