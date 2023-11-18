@@ -13,8 +13,6 @@
 
 - 🔭 I’m currently working in *********
 
-- 🌱 I’m currently Working on Mobile App(Whatsapp)
-
 - 🤝 I’m available for freelancing.
 
 - 🌱 I’m currently learning java && C++ 
