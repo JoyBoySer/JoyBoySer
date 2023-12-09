@@ -53,4 +53,3 @@ Heh, another one of ya caught by me charm, aye?
 </br></br>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=JoyBoyser&label=VISITORS%20COUNT&color=10d9c3&style=plastic" alt="JoyBoySer" /> </p>
