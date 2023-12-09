@@ -8,17 +8,16 @@
 </a>
 <h1 align="center"><b> 𝗛ᴇʏ, 𝗜 𝗔ᴍ 𝗝ᴏʏ 𝗕ᴏʏ 𝗦ᴇʀ</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🔭 I’m currently working in [SHADOW-MD](https://github.com/JoyBoySer/SHADOW-MD.git)
+## **☕ About me**
+<a href="https://github.com/JoyBoySer"><img align="left" width="100" src="https://i.pinimg.com/originals/58/61/e5/5861e50201592def2f861e910120fff6.png"></a>
+Hey Baka,I Am JoyBoy Also Know As Joy Boy Ser. My passions: gaming, anime, manga, and dabbling in coding and tinkering.
+<br><br>
 
-- 🤝 I’m available for freelancing.
+## **💻 Experience**
+<a href="https://github.com/JoyBoySer">
+<img align="right" width="100" src="https://i.giphy.com/media/LLsUNd14gwSkSLYTcR/giphy.webp"></a>
+As a BCA Student, I Am Making This 😹.I Am Correnctly Working On [SHADOW-MD](https://github.com/JoyBoySer/SHADOW-MD.git)🌐💻✨
 
-- 🌱 I’m currently learning java && C++ 
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **+91 8714504817**
-
-- ⚡ Fun fact **I Wacth Anime All Time**
 
 ## **🎧 Spotify**
 <p align="center">
