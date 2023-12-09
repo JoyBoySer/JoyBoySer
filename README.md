@@ -16,7 +16,7 @@ Hey Baka,I Am JoyBoy Also Know As Joy Boy Ser. My passions: gaming, anime, manga
 ## **💻 Experience**
 <a href="https://github.com/JoyBoySer">
 <img align="right" width="100" src="https://i.giphy.com/media/LLsUNd14gwSkSLYTcR/giphy.webp"></a>
-As a BCA Student, I Am Making This 😹.I Am Correnctly Working On [SHADOW-MD](https://github.com/JoyBoySer/SHADOW-MD.git)🌐💻✨
+As a BCA Student, I Am Making This 😹.I Am Correnctly Working On [SHADOW-MD]🌐💻✨
 
 
 ## **🎧 Spotify**
