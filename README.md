@@ -64,5 +64,5 @@ src="https://animesher.com/orig/1/135/1356/13560/animesher.com_evolution-manga-h
 
 <!--<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=JoyBoySer">-->
 [![](https://img.shields.io/github/followers/well300?label=Followers&style=social&color=purple)](https://github.com/JoyBoySer)
-[![Instagram](https://img.shields.io/badge/Instagram-ig_well300-purple?logo=instagram&logoColor=white)](https://www.instagram.com/joy_boy_ser_/)
+[![Instagram](https://img.shields.io/badge/Instagram-JoyBoySer-purple?logo=instagram&logoColor=white)](https://www.instagram.com/joy_boy_ser_/)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white&color=purple)](mailto:talhamohd300@gmail.com)
