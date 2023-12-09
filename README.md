@@ -28,9 +28,18 @@
 </p>
 
 
+## **🟪Profile Counter**
+<a href="https://www.instagram.com/joy_boy_ser_/"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@JoyBoySer?theme=rule34"></a>
+<a href="https://github.com/JoyBoySer"><img align="left" width="100" src="https://static.wikia.nocookie.net/pokemeow-community/images/f/fd/Darkrai_%28Shiny%29_-_Pokemon_-_Pokemeow.gif/revision/latest/thumbnail/width/360/height/360?cb=20201206134815"></a>
+
+```yaml
+Oi, folks checkin' out me profile, eh?
+Heh, another one of ya caught by me charm, aye?
+```
+<!-- <br><br><br><br> -->
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 
 
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
