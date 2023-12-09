@@ -33,8 +33,7 @@
 <a href="https://github.com/JoyBoySer"><img align="left" width="100" src="https://static.wikia.nocookie.net/pokemeow-community/images/f/fd/Darkrai_%28Shiny%29_-_Pokemon_-_Pokemeow.gif/revision/latest/thumbnail/width/360/height/360?cb=20201206134815"></a>
 
 ```yaml
-Oi, folks checkin' out me profile, eh?
-Heh, another one of ya caught by me charm, aye?
+Oi,Baka
 ```
 <!-- <br><br><br><br> -->
 
