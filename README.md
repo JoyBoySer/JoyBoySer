@@ -8,6 +8,8 @@
 </a>
 <h1 align="center"> Kon'nichiwa.....!  <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a></h1>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <br>
 
@@ -15,6 +17,8 @@
 Hey Baka,I Am JoyBoy Also Know As Joy Boy Ser. My passions: gaming, anime, manga, and dabbling in coding and tinkering.
 <br><br>
 <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## **🎧 Spotify**
 <p align="center">
@@ -26,12 +30,16 @@ Hey Baka,I Am JoyBoy Also Know As Joy Boy Ser. My passions: gaming, anime, manga
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## **📊 Github Stats**
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JoyBoySer&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyBoySer&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117&layout=compact" />
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoyBoySer" alt="JOY BOY SER" /></a> </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## **🟪Profile Counter**
 <a href="https://www.instagram.com/joy_boy_ser_/"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@JoyBoySer?theme=rule34"></a>
@@ -48,7 +56,7 @@ Oi,Baka
 
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## **📫 Contact**
 <a href="https://github.com/JoyBoySer"><img align="right" width="100"
@@ -61,4 +69,5 @@ src="https://animesher.com/orig/1/135/1356/13560/animesher.com_evolution-manga-h
 [![](https://img.shields.io/github/followers/JoyBoySer?label=Followers&style=social&color=purple)](https://github.com/JoyBoySer)
 [![Instagram](https://img.shields.io/badge/Instagram-JoyBoySer-purple?logo=instagram&logoColor=white)](https://www.instagram.com/joy_boy_ser_/)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white&color=purple)](mailto:talhamohd300@gmail.com)
------
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
