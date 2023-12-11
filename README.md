@@ -31,7 +31,7 @@ Hey Baka,I Am JoyBoy Also Know As Joy Boy Ser. My passions: gaming, anime, manga
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JoyBoySer&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyBoySer&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117&layout=compact" />
 </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoyBoySer" alt="JOY BOY SER" /></a> </p>
 
 ## **🟪Profile Counter**
 <a href="https://www.instagram.com/joy_boy_ser_/"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@JoyBoySer?theme=rule34"></a>
