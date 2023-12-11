@@ -48,7 +48,6 @@ Oi,Baka
 
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
 
------
 
 
 ## **📫 Contact**
@@ -62,3 +61,4 @@ src="https://animesher.com/orig/1/135/1356/13560/animesher.com_evolution-manga-h
 [![](https://img.shields.io/github/followers/JoyBoySer?label=Followers&style=social&color=purple)](https://github.com/JoyBoySer)
 [![Instagram](https://img.shields.io/badge/Instagram-JoyBoySer-purple?logo=instagram&logoColor=white)](https://www.instagram.com/joy_boy_ser_/)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white&color=purple)](mailto:talhamohd300@gmail.com)
+-----
