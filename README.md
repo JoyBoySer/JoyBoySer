@@ -6,7 +6,7 @@
 <a href="https://github.com/JoyBoySer/SHADOW-MD.git/">
   <img align="right" width="150" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif">
 </a>
-<h1 align="center"><b> Kon'nichiwa.... </b> <img src="https://github.com/JoyBoySer" width="35"></h1>
+<h1 align="center"><b> Kon'nichiwa.... </b> <img src="https://drive.google.com/uc?id=1qzjjmpa6oY9a3xq3mCqWoufaMO5LgDMs" hight="100" width="85"></h1>
  
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <br>
