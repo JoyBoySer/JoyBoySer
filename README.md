@@ -6,7 +6,7 @@
 <a href="https://github.com/JoyBoySer/SHADOW-MD.git/">
   <img align="right" width="150" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif">
 </a>
-<h1 align="center"><b> Konichiwaaa </b> <img src="https://github.com/JoyBoySer" width="35"></h1>
+<h1 align="center"><b> Kon'nichiwa.... </b> <img src="https://github.com/JoyBoySer" width="35"></h1>
 
 ## **☕ About me**
 <a href="https://github.com/JoyBoySer"><img align="left" width="100" src="https://i.pinimg.com/originals/58/61/e5/5861e50201592def2f861e910120fff6.png"></a>
