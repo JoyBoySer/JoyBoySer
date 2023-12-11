@@ -9,19 +9,12 @@
 <h1 align="center"><b> Kon'nichiwa.... </b> <img src="https://github.com/JoyBoySer" width="35"></h1>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 <a href="https://github.com/JoyBoySer"><img align="left" width="100" src="https://i.pinimg.com/originals/58/61/e5/5861e50201592def2f861e910120fff6.png"></a>
 Hey Baka,I Am JoyBoy Also Know As Joy Boy Ser. My passions: gaming, anime, manga, and dabbling in coding and tinkering.
 <br><br>
 <br>
-## **💻 My Works**
-
-Whatsapp Bot  [Shadow-Md](https://github.com/JoyBoySer/SHADOW-MD.git)
-
-
 
 ## **🎧 Spotify**
 <p align="center">
@@ -66,6 +59,6 @@ src="https://animesher.com/orig/1/135/1356/13560/animesher.com_evolution-manga-h
 **You can also email me here:** joyboysar@gmail.com
 
 <!--<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=JoyBoySer">-->
-[![](https://img.shields.io/github/followers/well300?label=Followers&style=social&color=purple)](https://github.com/JoyBoySer)
+[![](https://img.shields.io/github/followers/JoyBoySer?label=Followers&style=social&color=purple)](https://github.com/JoyBoySer)
 [![Instagram](https://img.shields.io/badge/Instagram-JoyBoySer-purple?logo=instagram&logoColor=white)](https://www.instagram.com/joy_boy_ser_/)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white&color=purple)](mailto:talhamohd300@gmail.com)
