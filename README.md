@@ -8,7 +8,11 @@
 </a>
 <h1 align="center"><b> Kon'nichiwa.... </b> <img src="https://github.com/JoyBoySer" width="35"></h1>
 
-## **☕ About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
 <a href="https://github.com/JoyBoySer"><img align="left" width="100" src="https://i.pinimg.com/originals/58/61/e5/5861e50201592def2f861e910120fff6.png"></a>
 Hey Baka,I Am JoyBoy Also Know As Joy Boy Ser. My passions: gaming, anime, manga, and dabbling in coding and tinkering.
 <br><br>
