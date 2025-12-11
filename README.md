@@ -42,12 +42,6 @@ Hey Baka,I Am JoyBoy Also Know As Joy Boy Ser. My passions: gaming, anime, manga
 
 <br>   
 
-## **📊 Github Stats**
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=s-hasil&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-hasil&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117&layout=compact" />
-</p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-hasil" alt="JOY BOY SER" /></a> </p>
 
 
 ## **🟪Profile Counter**
@@ -68,7 +62,7 @@ Oi,Dont Copy This Baka
 
 
 ## **📫 Contact**
-<a href="https://github.com/JoyBoySer"><img align="right" width="100"
+<a href="https://github.com/s-hasil"><img align="right" width="100"
 src="https://animesher.com/orig/1/135/1356/13560/animesher.com_evolution-manga-haunter-1356099.gif" /></a>
 **Please Contact me on WhatsApp for a quick response:** [JoyBoySer](https://api.whatsapp.com/send/?phone=918714504817&text=Hello%20Well300!%20%F0%9F%8D%B7&type=phone_number&app_absent=0)
 
