@@ -69,8 +69,8 @@ src="https://animesher.com/orig/1/135/1356/13560/animesher.com_evolution-manga-h
 **You can also email me here:** shasilchachu42@gmail.com
 
 <!--<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=JoyBoySer">-->
-[![](https://img.shields.io/github/followers/JoyBoySer?label=Followers&style=social&color=purple)](https://github.com/JoyBoySer)
-[![Instagram](https://img.shields.io/badge/Instagram-JoyBoySer-purple?logo=instagram&logoColor=white)](https://www.instagram.com/losexyt/)
+[![](https://img.shields.io/github/followers/s-hasil?label=Followers&style=social&color=purple)](https://github.com/JoyBoySer)
+[![Instagram](https://img.shields.io/badge/Instagram-JoyBoySer-purple?logo=instagram&logoColor=white)](https://www.instagram.com/s._.hasil/)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white&color=purple)](shasilchachu42@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
