@@ -64,11 +64,11 @@ Oi,Dont Copy This Baka
 ## **📫 Contact**
 <a href="https://github.com/s-hasil"><img align="right" width="100"
 src="https://animesher.com/orig/1/135/1356/13560/animesher.com_evolution-manga-haunter-1356099.gif" /></a>
-**Please Contact me on WhatsApp for a quick response:** [JoyBoySer](https://api.whatsapp.com/send/?phone=918714504817&text=Hello%20Well300!%20%F0%9F%8D%B7&type=phone_number&app_absent=0)
+**Please Contact me on WhatsApp for a quick response:** [Shasil](https://api.whatsapp.com/send/?phone=918714504817&text=Hello%20Well300!%20%F0%9F%8D%B7&type=phone_number&app_absent=0)
 
 **You can also email me here:** shasilchachu42@gmail.com
 
-<!--<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=JoyBoySer">-->
+<!--<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=s-hasil">-->
 [![](https://img.shields.io/github/followers/s-hasil?label=Followers&style=social&color=purple)](https://github.com/s-hasil)
 [![Instagram](https://img.shields.io/badge/Instagram-s._.hasil-purple?logo=instagram&logoColor=white)](https://www.instagram.com/s._.hasil/)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white&color=purple)](shasilchachu42@gmail.com)
