@@ -14,7 +14,7 @@
 <br>
 
 <a href="https://github.com/JoyBoySer"><img align="left" width="100" src="https://i.pinimg.com/originals/58/61/e5/5861e50201592def2f861e910120fff6.png"></a>
-Hey Baka,I Am JoyBoy Also Know As Joy Boy Ser. My passions: gaming, anime, manga, and dabbling in coding and tinkering.
+Hey Baka,I Am Shasil Also Know As Joy Boy Ser. My passions: gaming, anime, manga, and dabbling in coding and tinkering.
 <br><br>
 <br>
 
